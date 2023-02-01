@@ -1,4 +1,4 @@
-# Hi! I'm Luiza Alencar 👩🏻‍💻
+# Olá! Me chamo Luiza Alencar 👩🏻‍💻
 
 * 💻 Sou estudante de Sistemas de Informação
 * 🎯 Atualmente estudando tecnologias front-end 
