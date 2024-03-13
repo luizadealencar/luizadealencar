@@ -1,6 +1,6 @@
 # Olá! Me chamo Luiza Alencar 👩🏻‍💻
 
-* 💻 Sou estudante de Sistemas de Informação
+* 💻 Sou formada em Bacharel Sistemas de Informação
 * 🎯 Atualmente estudando tecnologias front-end 
 
 ## Linguagens e ferramentas
